@@ -1,0 +1,1 @@
+onePlayer=playerA,bubble,300,250,39,50

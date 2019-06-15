@@ -1,0 +1,1 @@
+twoPlayer=playerB,bubble,300,200,39,50
