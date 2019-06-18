@@ -110,7 +110,7 @@
 │&emsp;&emsp;&emsp;&emsp;&emsp;burst.png  
 │&emsp;&emsp;&emsp;&emsp;&emsp;player1.png  
 │&emsp;&emsp;&emsp;&emsp;&emsp;player2.png  
-│&emsp; 
+│&emsp;  
 └─src  
 &emsp;&emsp;└─com  
 &emsp;&emsp;&emsp;&emsp;└─whh  
