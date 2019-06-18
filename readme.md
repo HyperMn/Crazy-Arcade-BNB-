@@ -157,7 +157,7 @@ com.whh.frame |	MyJFrame.java	| 显示窗体、绑定监听、启动线程
 com.whh.frame |	MyJPanel.java	| 不断读取人物信息
 com.whh.main |	GameStart.java |	游戏入口，启动线程
 com.whh.model	| ElementLoad.java |	加载资源、读取人物配置（从pro配置文件里）
-com.whh.model.managor	| ElementFactory.java	集合所需元素
+com.whh.model.managor	| ElementFactory.java	| 集合所需元素
 com.whh.model.managor |	ElementManager.java	|  
 com.whh.model.managor |	MoveType.java	|
 com.whh.model.vo	| Bubble.java |	泡泡的放置和爆炸
