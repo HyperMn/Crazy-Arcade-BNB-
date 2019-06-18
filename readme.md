@@ -170,7 +170,8 @@ com.whh.thread |	GameListener.java |	键盘监听
 com.whh.thread |	GameThread.java |	迭代、控制进程
 
 ### 类图
-![类图](https://github.com/HyperMn/Crazy-Arcade-BNB-/blob/master/RunningScreenShot.png “运行截图”)
+<div align=center><img width="100%" height="100%" src="https://github.com/HyperMn/Crazy-Arcade-BNB-/blob/master/%E8%AE%BE%E8%AE%A1.png"/></div>
 
 ## 六、运行截图
-![运行截图](https://github.com/HyperMn/Crazy-Arcade-BNB-/blob/master/%E8%AE%BE%E8%AE%A1.png “运行截图”)
+<div align=center><img width="600"height="600" src="https://github.com/HyperMn/Crazy-Arcade-BNB-/blob/master/RunningScreenShot.png"/></div>
+
